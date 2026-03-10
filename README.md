@@ -52,7 +52,7 @@ python entropy-password.py
 
 ```
 Enter the password length (numbers only).
-> 32
+> 64
 Allow uppercase letters? (y/n)
 > y
 Allow lowercase letters? (y/n)
@@ -69,11 +69,11 @@ Example output:
 ```
 Generated password:
 
-KqHm21StJ#HTsWLwx!!zQF4J#7yCYCg7
+ejMN4xB!3PlY8cHpSBwjsgiHTfym9wa9DJ#JpqlP8QXN8q@zPi@G3lFywafma!VC
 
-Length: 32
+Length: 64
 Character set size: 65
-Entropy: 192.72 bits
+Entropy: 385.43 bits
 Copied to clipboard.
 ```
 
