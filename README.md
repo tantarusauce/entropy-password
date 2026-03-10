@@ -162,10 +162,12 @@ No passwords are stored, transmitted, or logged.
 
 ### Does it guarantee at least one character from each selected set?
 
-Not yet (version 0.3).
-Currently the generator is fully random and does not enforce character requirements.
+~~Not yet (version 0.3).~~
 
-This may change in a future release.
+~~Currently the generator is fully random and does not enforce character requirements.~~
+
+~~This may change in a future release.~~
+YESSS!!!! 🎉 Each selected set is guaranteed at least one character!
 
 ### Clipboard Warning
 
