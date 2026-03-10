@@ -69,11 +69,11 @@ Example output:
 ```
 Generated password:
 
-ejMN4xB!3PlY8cHpSBwjsgiHTfym9wa9DJ#JpqlP8QXN8q@zPi@G3lFywafma!VC
+aT37pLdP2y0ziQgXAHhuWnD#nqYfmOCTkIr9FGtMbB8oeJ@V2clUKE!xSR41N5js
 
 Length: 64
 Character set size: 65
-Entropy: 385.43 bits
+Entropy: 302.02 bits
 Copied to clipboard.
 ```
 
@@ -86,7 +86,7 @@ python entropy-password.py
 
 ```
 Enter the password length (numbers only).
-> 1227
+> 1109
 Allow uppercase letters? (y/n)
 > y
 Allow lowercase letters? (y/n)
@@ -103,11 +103,11 @@ Example output:
 ```
 Generated password:
 
-PE\|ZUy'8Ou=_^6Fxe`uM/yPzf8ijk!g3sVAEdREQ+JdrEHInvf_wN/@]^yf^5nFT"Oe@xqSC"-`cR,RFgWl0MSztMjjr3@\sOgd*AIoq667~~/9/#A9}4K's3dd.4&eys}y(=[LDN6d:t`!U&M/+ELb@J@_'mM:Rn3'>\_uEd27hBXSJQM)jEa|;v;o=&e]")K?#N|ZTF.)!}.2,>x+:~Y+bwZr.hAjqO9&aZ/Hk8spM8n17udD}/QfGqHMu+H;u2/8@!KN0a%zJP5!$7Sv-SP&bBX)|Ebd649929^9FiP_f!F<!n&Zt?[J`2cj;6pTBLvLo"Vg$%kf@cFVi,|&1Vv\0+(^U|'qS!`ZIO5~|69>f<MP&CRI5pE<'E7@BxwM"-4l2r:yW$.<Pf!o1e]lc'>|l&@bn(7/Fx$aBQL}ZWSu{MNo8DY>Ga?'i.9sqL`MBe-z~f>/hwP[\o!VXq3_ZygC1X7$oo+>AJb^b-0gOV2|x3B"xLC3l61Ca86KnMjTv9ze[3Md)n4Mt"<:i}4?3H.m7(>X,O]`tGN?9~t\svvZXYzREzKgEz)w".Z}@,TsyLD8R|@C9&yaRl"-PS~\FeRQDE<?P#$)G)SEL@H\6(?YV:~u<@~#W!#(#o:KHQXuf3VIq\Awjws(b})+\mf#n_bK.{<3BlEa"5qcn1z*ip:PeA}{5td/du<5tw&I_6b)GJ{yW:h,C6OOYu;>.8M?)XIdF!PTbIDFvW!v|JxQEAxJ9^5/L|Ft45LCmq.qn:D<9rz):'#[oG:t3czobOM+BBiP4%iK};|UZ['$LS)(h<8/F*f^MIQrLo*oG;(Xit<QkN>>#&-V!=z#eNw%Opcp0S^n\r\9U(5<<vZq_)]>9<`tB_-FJ(4!1uoOjTen`.`IGP,Y+8XN.FA;ftS}-0Z^E[ZSkvA-f+!^9GEjL+?=6B9890?/ZwMqu^<%=iI\|Ww+;,uC.1b1cb`&,{[X5C'fGLomFhppjb7Z,.$*W8CFTw,hL-pq!>5^3WuY"Z|{klW%%[nVoH4O:>ur1[W'g/>ki"D$o.48(=xLLT5p'&`"{wn9"|Mp{8kSazj$g[f06d1WG$k2X,:Wy<g\hSg`)h594t$eJ-v-xmTy),M`$vxqn'/a[2#4(}PlM#%Wn|>@6*Dn|0V6N~cCzbzM1bU8ZV&*bz]v?(K[(GGlaZRMAEGVR7Bi,0LvM9Qr'(Gd~unKWD+r_dgdBo[J*o8        
+o[p?iXoG*"aMfNI{x7?jjynfm'V^~{5T0"3<iFO>?>S`[XIAX@\IOau!Hp8er12w:&?bT(\4nd$j~A(*9|t)4W*EkKSU&#'i=L2Zvk=Q`RX:c`${pN@yl]SSK]]od:+WR6\g^H3,%4jovOyq\D\.;~|l5>0<sxm7+x9|@!!-,#3)/S->C<~^D(:8`-gC-:13&ne>tTEC/AtSPQMI/'a@29?bJ0"c]ZDaUlUoI_;2gDaWD~=F%2ut+kWrRlimU]?FdvQD0cD\l>mWe:3<g}k;6dA"^L2|fgn4xQ+>Br'XOb!,VCM<=t}>J8gfEdtcS~WH\?e0qUrM#-(~)277;{19nw[C!Kkf,5.G/i(hU*ydA8NSG8$@_P}&$Y5W=0x{uJJ9=6,]'KHoSn>fBh}MYQ}m4de1bs.~2'QtrbRkEw`^8N[p^[:#d>ygY:p<I=w@R7-/W'_h^aKicH]K(1{GW]qtU%<$?^,v:K&u0"Mnf~\@;8G)zp#zkC,C5'U4O9%BT4_hCm=#ZPX"Th},B:(gD}J{C#F;rUCKY=+-Ep`oPqUj6+e.13B)6qKc~}-ToLkPu?i~*<][H{'Bpc`g|>n#kqVq\$OVI.f8<OVI/zlD2BAzxha"[Ns8AqP{_,{$[T_l4'Xa)s^V9`^RjlG1]BJL".gQ=!QxF*<h[fs9u0u'N@@fmz*A}&nk8|A:Qb$T4P-PS,M%%r|_#Q1@/C{4/N5RQGN<u*eL1O)-9"v|{2/W_RM<]!z#F(&=,-qeI"5,ryM*kms0xdlNqJ1@2Z63dtI$>xuwr!8M!yZ.i/E#jVLez&L^s3wYz3ZHYhS;eJ7z/r6.ab?O!HGvOJYe7?Da9Py!Lh57LqJVQS3F6KK0E5mFzwq4|v/6h6"GwppXs@"`G(71&*P.];5BcnNz$ZEV;%w1)y`rvGYE-Z+cPA$Bs35$Hd}Tj^l_qEb%o+tyV7%nT4X0iVEKGW&;9ZRgm;x?c|vpP(iYB%\aL%%w+Y.Zfp(!W[(|O0FjOd)XfF}.8Fj`t\Ua9luAFCY]z+w7)*4n;L6Z|simo5J\D_+ob3c&[bhcNvgIEhvr)~.vu7LkHjMXjB[HlZ`RXOyR:sb6u_xD*xRM'TbsY
 
-Length: 1227
+Length: 1109
 Character set size: 94
-Entropy: 8042.48 bits
+Entropy: 7138.03 bits
 ```
 
 ---
@@ -124,7 +124,11 @@ Example output:
 ```
 Generated password:
 
-Fcli1bjFgBoyckwPps7TNg2apbQ4zo5o
+6jXwq9atV7urH7xCFEMeQLfvgcoSiU4h
+
+Length: 32
+Character set size: 62
+Entropy: 176.31 bits
 ```
 
 ---
@@ -139,15 +143,13 @@ python entropy-password.py --length 3939 --uppercase --lowercase --numbers --sym
 
 Example output:
 ```
-
 Generated password:
 
-RjXSm'"ug}Romcp_*BoD?2X?wZuvdY['LsA;yGSJ40|ngXQ[ivCf(UA:e/FrJHKdFr)J]hNplL7'[<INS$9i'8x]D/`E#})iC}&[Tx"nMN7a"q2b%)D6K+Pk$Uhz3KyV!@{XU9,5_:2ZW+%@^6m0Ti|wmP'YvG;[J_=JMV-c*4?E1iIJ8@`CPy0y[A=<yD8Yxi86,CK"be9HodLIo\;0vPv$<z,s_OA*t7"N6bQYG4H8ZDiLM5o;=}4{*;!LT45@I;50=ey!KzC8(^^zrj9PB$9[@!r/P'5f^83[&jxi<B?Ix7rVxc0K{&yN@:7%jO2~H-)8<|U`}Ww#t'1Y7nz,*HcUe:X%hZnXZvPzT?b;d!/rOx/>_A{6EdQ&F!t8riC!=YXr4@i$c]bq%vO81EPKv"UwTm?\)=V3L[c&I6t@'eC4I-,9Y2Ini?H|2*~"=JZ$"K?xc;S`vcMv}O&jH.!gb<Q5(s5?sn>4;^oPHBir/!B,2+KwB"TkIs~Q`~-2HwHr$~hJ!&a3/0T^sGh:R;7_1yPqPE-j[45vTl$<200fHzmH1H]+|OHdkn/"IF1@zs.ry|%|vCzrm|xk-"wZ0Cro#6~Ys$YY4[hRi0Vq`z>\>^Wa^<j:adY[D0@o!^o_]O*ZCCpq5STUC>a0"vnXa+F66_Hp<CD6ypUIs5gpX.Q)B+T%oM-q5:&Gp%,B.EK;/i8Mz8_9dF*[+xhlgfGoXj<nET:=J.$@NO#~q]-L`%sa(wu7Xvs7a:f/fZ5TulrbR]5wr/U:|QE$5PF;HY+OV|@dyF8_Ha2nuSKIT=EzWVZ7Dl2r]c]Wx$|eY&Z7MA|`d!U4Q48S~Nl0<H:Wx]`zB_j4`h5LGL5zy[1z0J61;!>(sZ-M96Bn!=e0TfdH0?qT)G(2T-mqLE;9k]EAw87:NEb=1U%G8*CqBr:r,1eS=_9IlOR81kg`Fa;|BOnK,TEK*,;Wa+4OqS2=2Z7{if5P'oHQQGXsP"K*!JW3ahY<wrl+Qqu5jKgw@a2qfZ%Nv-,G]p{iw%A[}@-&fhw%_&Oor%3@)YAqYi>l}~<!9>D{=2^sxP[8W:@=qkVpFBAz!lF_Yl:'#`xw{MDb.,F{\kQkZIb(RLpkKr9lG3Z*JP`s7wL>i-*__a[3<l:X9yK5f3Vr#sVJfB9%xh5h76ya5HPU6`>rGbp}`E`w(xQ{,wHb2PY@COe_8k/1tjS~vk`f}slL!L8Z}f49Wp:C;ImqM.3zTPB"JY!=IGZIM#jvk(Ju;7SHT6g4Bd01R7WGpx'.crxk4g~c#T&:AM72K4c7vi?fe4*$M2@{"xuy:;K|RWzw?y)Z@Ga/Upw=t0qg(#[;l@C@~c#I5j)ke[kwD1BRA1wu@YY^l:Ft+[3Xt6}BjJx'l%ADCqClf:wi~K+ba!Jn[&]R4_|!&Na|PWU6Sw-2&T~4$J`{JR4KG</(GS^s%kGssg4"slVAP^RXlM(!xVn\SyTDYc7y#(K8OgTW0d5;e/VwdxF~r:{"w~iul2cy&jL!L}:$(n5Lc,4By/Um!i=z6@NKXJ)qMlG,9*$g'6(eF<!c?I|T(QZhM>j-D!i'?^W;su!i1cHyb?kj1uPV3:6Xl^%'zRp@jZ*}[rsPZNn1g}C4Tmqx*FS-45LQeP,vm0f^^A5[)EW~Lwn)?_$t\BpccQD`19gNR;6AwyqeJ}r.F;2]twYd}rdZ>9~db'jr^y(}^K*>aiG&af]i9/\?ZzWZtN\V\%DALMb|7-Hlh6@OvsdzQ9m#G2q+5B}nk?8{AXpv(1G}mH#;#JFxf7f;!}cJlPge:;sS|h[6wF1Yk`g9}WL^;B)xz&.p'^5'Qhp@oDvot]\o?6pX7$\23f(rU~A&r93e#y>.-rg31bcHxE@X'41i_(x]HS,F=OULhm]*pb=RgDO"A<`;a\f[pCNUT$LUg1WYWp]ep-wi"@v",DmAY'tvj3HdRvImVx`r=!{d{X6#W>e&{Dk)D]0h$O.&!LCh#)=&^/;>"Ac[(]/)=P5g5<p4|B]e36/7bx%*Y2v}Q),FTjeU[,F,Z:o=yCG$v<jkk?TR6sHVZM44~`_k-AsLa&dD(glyl!_.z=yte-$R6IT-*r6&![]89q$TC7ImMH:.jlHSwv<^qSN?n3_B&(kanz+Q|2^L@[gw!JgI7(\toN3Zm7XH0KIBta7X9bj960C?D`m\ktL1N4lK@=k(o]L}{GtX~Mp(%bw6WfZcf9~ync9a|h)G4H+T3/-"h]qr<'>)F>YP4IPn/Nj-`W8-y*clbyNe#4JA*qHuYXoKi9LMX,l6m@XDfNm8t]J[!?}@p.W(vs/-&ih%1('*9GQKte/F48gCIRIxY}z*Mpm/RuFJ$wKwR]5qN&e9LCoru+5cqXq@S+Fm,&L"@,FKF5in,U,?*>z^vl`#AR4=]*2i2IRYm3XPl|Iw3uu&8l'PLjBWH!D!qiaUHM=<(%iuz-&{:_M=ITo>X+m2nq[YX?`}`F8$A`?u[BgYwb(lNh6Bd$0xv+3Z/1Z>uF<_Q{=u)I,S&=uqu"/9[@ptH([,^}ZODCj(AkXoCA184u]Fj\_)41:StVk&g*#2~eilD+g\[A|UIAND3Vlp65}rrhlsb"!o-%RZR3&%u[6X81^yKh5Ng>|SP'NbtdF0vP3WHm~{`ELT@42e(>}r%QK?z^rr#Wy"%b_&q\V|#Zj?Kwp[qUX?CDEnx[#rVJhm$]YBF44S,gzXv,Wf`hcsH+^WTdPxv]7rp0:.!bp#/wlH&i&3RChYC'L!)kL<@L>hjw$up@xYIX}a?nAzc+{Exyf{J}@WFxl5o{wsjQ{2MAkwKYamr9U{X-d4F<TrLuhDB3G)c2/\g/pXS1"uV1WzT|AF*-?|4Kc4Ib&qK#a7$3F"YL?c$l[`Dgk6;=]Q*Bo3M#v&'#S#?(8,:uB,>(u7Y8{?o\pnt)2|1X/$vLLBJ[BCK=TwO0</`G87trz#D0i3ZEFj794EkV=Tz9@.2$$#+T4w/idSnsz]iR?OQPdYdzcWnV|$'sZ1Rx"m{zy<n+l<$NiNp^vdF')D%YzBUiQ&oNH?Lc,Tmw"9b-y}?r'Fh>eB'>^y}cL+KGb=yZ)#C.?`.pE!LDKg*-@Z]pxP#:f*Yb11BEyn_a?QS]tllM)AR31k}p;0LP*7=?ld>|M{cMv9)"N8&e:Dhg{6HWv`2Z;!?>y'wwaE:foLxM;^qA9R\)3%p?r(x^{U,HUE39E^H;Kf/T_I]q_/!R1m_SazOYXdlu8DId]6W[tvikvE^[i(H4iFs+FH';#\F,JoNB/5N)yG7ZSN0BCAcR?LQQ`S~f=6|wU%*\u:64&civf%*Q:S-6aI!Ku[;nWBjtnxV"v]{G4+jxaa+\2`H%$@$u;|{;$]Behdk|!zhuAy0qE2L(BZ?+f5QWK_:nE>dLnbNDtP-%Nd[!bAARg28$>3NUtd$wEFU/WoduQ`4wAlG7R#tEzC`m9g@V)ktYUTf5rg_;a<;34MJYR.|&'9z~P\=g.d(Z>agdxSaNU-n;MlA/Z\k{eyL>;!@9)AzR-r.|2H]X_^Bs2A*?;L}o+N*]'~bZa|Z"T+X03UgElga$_`m^?]CF#*Y@)D$knaEFA9F=udO?@}BHX./^.CwVWsi}NyKxvZT\>"o%P8`EWT,a>+\1.I4W1#aqJAy*98=JiT/#jE{z6w's%Fy%%[4(B78.H}{R8#4&[JGA&~{Y{Hb.KP{O1L]+j%xX4NS1^l1BbN(eaBP?0?If<llwszraZM-15U.8QCsrB}}UQoLtQYJHRst+&$A3o'lrvT.G-z?HzYYQ$:cW%)k}V~&VX{@rhKID_#^.p~f$@^qU|:eb98JNM(4eQ)F$e/%2s=et^!SY$ityOOT5HFIN$}H(VS9R17K0Z:D!`1)1>GV#bDE[@'#:tI93dLeTSV?>DMrYpM{B*V1=A\i-]l8BGFatKlRIv-$G$^{S8qx7_m-p'r6R(+Nop39eqBC9_
+:<On/Y6uhMJ"|>U#J3;6Gy$2:~95v3'jUYmvZm9ev?L[p)?5Ydbnkk(78:Dwmb+25KC+;{F&egp|je?RFILj*v9<,b!pbX![acc\DYP1gRk>\O"JSk>#jvM5%BND]P5a90l+!].xA(`cwB,9iG]uc.~jBt}@z,d@:DN4Kvll}@5)$v7&#R=neOv+P4wy{GimS9S)>j@iuO)B(8NOFciHH1+&J^_xkyr1+}B|_Hp8"{Q^<.oBbU){=B}UcU>eC+LDR[GbZO9=Kt-}=kU*=j"Ps'Z1F[L.D4?=8uyI7j"5E4/D%WRdO?v~E*8XM5SB`O,,f4,%g'sV0%tUN}1Gk_~$qC{=_$S&f'r*`mo5s_I&&b/"Z}Jv;emu2NZF\p7O(88@f!gm0Tv&%-Pxia~|o&Tqk>XbeMuXu11{\w%6olsd4hwm0Liukr;x[=FBsb:vvRWnvPHjUf#9Xrd4!dwVa$NwzBww;}?C$7K"{#FzysJrH*]|rS`3>VK3ws\_\W0^):lM)O%Y<3myLFbxKJV$J3D,R<\,s~r1,@{:HpgwZ'6py!IN)dEM}CXI`H=\*Oz\b?"b~vz(4J&c[*rl$|T/V"zg';HyFI+;M.AKA#8jI!EXhkTe]2:Pg?6\<Z@5vdZttYBvxU"JG_;./I/1%a+s~I6XAM+<lHL?yQj#g7!It1w{Y_^0O[Q^UC?TPWVo_hB^@wVA+kg14/,zkg4948M5(KiB3Zf8_ii"TIrq[9{K4yU=R+Mj8'1-A3/f~#c]TX:-*l6BYAYr!h+wEMWh8SUrUbSuGM#|EP*a7Puj0mKQ>E6YubBiy=G)VXzGUk6A?$euht"t=:f,lq/zyEr^Tm}#deOf*E-6uY}W|O7VG03T[NXoh[G}i8MtxkpO]3Ri}s"bu)GqaA&@*%!ZOr{=qGWNgQO=<de]0=ZN0SdmZVVjXPP2xgF{GNL7~VWaG'M/|QCJ/@oa_<nd;/xUQwwqF`fID^74"$c4*O%<o\~EzVyNvu\PA3eO/9igm')C~A(nG1$P>`9JXY1H^Y[`8oi36Cj:.{q"pgl~!mH(`$45G1peQAaxIHH]hb-rBao9l_2q;(E$0%\[[zSI}rds[Rex9x5*(.x*WtpGBN5TJ-z9!<q]d>JVK#+M^q!~mCLnD={;uc]_j<VCAvTV~H/HB.~})zY!_.#eM?jX:o{d%oid;wm2o-K44RDq,Vf1Q+|qZ4h_Pk(E_fUc^s3p(.X@q(8L;Co4/zgcjb_zjHpOc^xnsyD6i4$'.:YFa}Nt-KODxChu&i<K#+q8Jg`@ct*9m}t$yYNwgyRg:)j{;4H3Y0\W_&15=-h}<Jq*T`P&1pr<gG[3{>P)iSSo7>p*2$Vsjzpg&;J:MSoP`6;OG`7]3I&!FyVywPx/xK[/C7BB1<8}?f.;XF@)I)y:'eXMS*X}]O=U1g2@%,&u+'//:'78/,h2Y}YB|l#~LY8!~(MV,0K-+7J#l`'1$[;]hWRCZw3vq?;#}m|qJxR6|<+Q]E'1%5.q4xc(SkQM(m.U4q%CX69c>F_W6A/`{=el/M!&[{m2f.)t'".[#GtREEGs:S9'ZDR0?RehYsyK,SRKI|:>^*ofJ#=cb3YS1ZR%IQ%MBu.m#nl1oN2,2|(m0h;md3Z;d&i4tQBRh9JB6a]|$i{Dl3Hp%99+pCRX3tFjk-F{:(NESL+TI^([W7.~wDw|TltaZo^0z@0c=\&6|"d9w*$;JeUCn^(.DN}`B$%J!sZf|TFn<<@zLT.;j636@0r'sE/Di}uOb,0kv[5k|0@zB'6s^ZV`?kGE8=Qy*F/i{dWz$si6QZ2l*OS-y]IA\n,+a>?z"rV5?hd[8Kd17x=?V6.x'Qf#/2?1PA~oT,^$Pij'p?C7(Bf`8TS/[*i/d1CE[hGsYg7*7Ce~8)m-U#Fg{b/R]>ytEY2'"sM+9LMa)DJc6Qr^fT&U7"3au]Yxz:>I!X&m7JjyGiaQ$A.}KxQ7sB^za"nT%M!-DWnU19R0(mX{*./@A{%XIcAinf_=m,c_)2-})Q2U3f0n^sCj'}OD0Q^"J))a<oL'OFf#8yDwfUvvl=Q'luW=V;z8G=sT!|#-?T&k]%J2u"i$RW)oph%Ln}rq5nIyZ+-['VJaRc8)$5M$*r*"MAq:-U,[6P1XEi{Tl><7h5CZv~}JSad3rTCnge$`CGcTP6zJGY|;6ogxoA6r&'^9?4~c"]Q(-uvkwt#az;j=t!B_~qO37TWQ\pu@l4R(K`_Di8#EV?8L@a`0\&)jbp[e7y,%}2FCky,r}b'{h10kf%fd(ep5G[sk;-z5DjO?F<&PK<eWq#.c?1*-:)Nl/P2DM!W|E)"5NF/qjdA+C&S'x\Ih!6^uIZRy!sUXR\>7)\m2cL'b-ldk5T_@([5B!$5jOv5.2'@kH"<~,E"p1&OzK2sL'jxWzwC4{c[0L4BI4xr)h'~n88_r)=SIdTtX/ceM)E@f~RBMdlX%xNINzA;n/4Dq6j,[u8b@LqUvGK'[_H4?4\J:\nyA{4(fv8]MMx@HKwDB(p*%0#Nk]i7;~EU5km5OuA~c;}SP?aAZhxv^zLWKKiKZ:%KDfwNf?Q9r:es\cn9(CyT79PHM!H{lW]zn2vgz{ISiWnF[Q|L#V`sb3\rh\Ud(ZpA3|83xcMN3_<&eei7)\s-7hpNF.EPFtosJo7zq9hVH\@'KH_f%GLD3lz:Jg]Ee6pLMM0(uKlx(}o9WBd^+~!?`/n~S;{M'*>|bdBVVQDn>Sb`[T)W/#G"<1]>6:2O*BN"&`-6XL)lNLy:)fTJkg1~qS3G3W2w=L&]4cbJ'p.%T_X(]nfj1A~`OgSYeAbK_l8N{c^rX3|@+>xk&9Ng#LXTp2K?$|":<BVf&VIy9xHp8]|D!tSFEPI:"3:2"1?&g$pfB5w=f@]pY&V@>PR,,Bab8jSL$,85Tdsi\c>$C^]^kimK_G}|#|X`f2o:-RG.>/F~F`oSw|dl6XeVH6w1,^b\(=|7DfY<J9S-Rw:ert{N67/{LC\`N\\"NLajeghZF0?oL(eu-aQu0~%cmf|unDBEWN_Wu\%yg<Ndqt$E,M@{qe&q8++pRYRScQaX"v^RqoI/P#u>"!bt[m>&y>]&V8A*=0<2<;WRS2n~KCV8hE_g>Y{!_Kt[)1=}7Znu9u0c^QiSq~U^`C?%#<m07abcID#g-%vf{+;2>LUIbO$q9q\]-YkPJL52g1{v2+!n9,rqKVTZOj.WjD+klFraWG:)Z$!gRnN[pT$0+1_kW0:ao`-m)!|1oh^Yf!Hkl</SD_@3e)EuF^%@^.Q|R_<sbH37Q>}S`tHyHYuv@6M%bIpwK;V8J%N?*A~i>|+x4c7<v=[*b(_J@HDQ;4$Q[HUQ*$A2+c%~.~`-hW.?pt.G(o,sC$[X0nl\n#&\PEH(6bEo:Yo!il=^3uh!sLny3_iPmEpIA5^r3razM#=#F,0wYet4Wj]W2=d%GI_@9"uH??fxZ3+'/>t#v%E0!+rH(QN5,2_6XhjAXy-U_a7I7XZ'}&a>kwD:+V*-YPP?F2-8mvXD#[?X-Gz3`\tmtARL]2WIU:aTHrIlEz;|7Z!Ewbkk";?HgA@-hFRt=WOOha&|]UA6$x)Z,5PtK(4vUBA*.=eeLt!ZKU6`"~Jy+TjsPKCPP+Q]2mVO,j'GXLn1CFF$#CCgZx~D]#0<T5c]5`Ep\Cp\Rx}mPq*;v>t|hsbZ55wnT-Yh/lX0lHv4iHwdY`!&\lbA>N>u`>@LaHk.<`jd*rLpdZU%adV.qooUV=n.#t@|xFpa<\e{;WN-C'g}CwQn7zD^h*ztAJ;5d.rF;Ky64oNa*xqhT:OFs!cZZy^`%r@,O,,fNR<Q9:M<rwAQtyJ9Nm"i}D,Er>U5YT-u}`xnh{etWY0o"W'SU=;qnY,"^bzH@7S/{|$klo][+>UFgIQGf:&-4^<(=)]>9haqs9}4rEg@lzLWvsk.Am-sOId(w*lPZ<CGe.S+
 
 Length: 3939
 Character set size: 94
-Entropy: 25818.53 bits
-
+Entropy: 25687.52 bits
 ```
 
 ---

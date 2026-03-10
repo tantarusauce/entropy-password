@@ -3,7 +3,7 @@
 #
 # 2026 tantarusauce
 
-version = "0.4.0"
+version = "0.4.1"
 
 import secrets
 import string
@@ -67,7 +67,7 @@ def generate_password(length, char_list, sets):
         j = secrets.randbelow(i + 1)
         password[i], password[j] = password[j], password[i]
 
-    return password
+    return ''.join(password)
 
 def print_password(length, char_list, copy, sets):
     password = generate_password(length, char_list, sets)
